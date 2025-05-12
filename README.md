@@ -17,7 +17,7 @@ The project is implemented in a way which enables the users to learn and practic
 Abilities of Users
 1. Users are able to login and practice quizzes, based on subjects and chapters of their choice. A notable feature is that users have the ability to practice questions of 1, 2, or 3 chapters at once. They can choose the number of questions they want to practice. By default, Users get 2 minutes per questions.
 2. Users can also see their past attempts, how their accuracy has improved over time by the use of line graph.
-3. 
+   
 Abilities of Admin
 1. Admin is the super-user who actually creates the users. Admin can manage users and add remarks for them.
 2. Admin can create new subjects or update, delete pre-existing ones.
